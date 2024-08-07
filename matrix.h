@@ -8,6 +8,7 @@
 #define MATRIX_H
 
 #include <vector>
+#include <stdexcept>
 
 class Matrix
 {
